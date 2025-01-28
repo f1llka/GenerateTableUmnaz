@@ -1,0 +1,16 @@
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.exe
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.deps.json
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.runtimeconfig.json
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.runtimeconfig.dev.json
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.dll
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\ref\VS_Пр№01_Бедняков, Шевелев.dll
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\bin\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.pdb
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.csproj.AssemblyReference.cache
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.GeneratedMSBuildEditorConfig.editorconfig
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.AssemblyInfoInputs.cache
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.AssemblyInfo.cs
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.csproj.CoreCompileInputs.cache
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.dll
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\ref\VS_Пр№01_Бедняков, Шевелев.dll
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.pdb
+D:\41-ИС\МАПО\VS_Пр№01_Бедняков, Шевелев\obj\Debug\net5.0\VS_Пр№01_Бедняков, Шевелев.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VS_Пр№01_Бедняков, Шевелев/1.0.0": {
+        "runtime": {
+          "VS_Пр№01_Бедняков, Шевелев.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VS_Пр№01_Бедняков, Шевелев/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
